@@ -1,0 +1,74 @@
+2018-08-14T15:37:17.255 : storeOrder: Order#: 511 |Date: 2018-08-14 |Name: Moose, Melvin |
+2018-08-14T15:37:42.754 : removeOrder: Order#: 511 |Date: 2018-08-14 |Name: Moose, Melvin |
+2018-08-14T16:35:32.426 : getUserDate: java.time.format.DateTimeParseException
+2018-08-14T16:39:09.419 : storeOrder: Order#: 512 |Date: 2018-08-14 |Name: final, test |
+2018-08-14T16:39:41.450 : removeOrder: Order#: 512 |Date: 2018-08-14 |Name: final, test |
+2021-08-18T07:38:03.320590400 : getOperatingMode: java.lang.NumberFormatException
+2021-08-18T07:41:01.972541700 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:41:01.973547700 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:41:01.973547700 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:41:01.974535700 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:41:01.974535700 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:41:01.975533100 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:41:01.975533100 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:41:01.976530400 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:41:01.977527200 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:41:01.978525100 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:41:01.978525100 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:41:01.979522 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:41:01.980519 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:41:01.980519 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:41:01.981516 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:41:01.982514400 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:41:01.983510800 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:42:29.927660900 : storeOrder: Order#: 513 |Date: 2021-08-18 |Name: mina, bjs |
+2021-08-18T07:48:46.549516500 : getUserDate: java.time.format.DateTimeParseException
+2021-08-18T07:49:20.299974300 : getMaterialsCost: lajava.util.NoSuchElementException
+2021-08-18T07:49:46.474236100 : storeOrder: Order#: 514 |Date: 2021-08-18 |Name: ghfgu, cgjcj |
+2021-08-18T07:53:34.741703500 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:53:34.743660200 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:53:34.745652900 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:53:34.746677200 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:53:34.746677200 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:53:34.747645600 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:53:34.748640600 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:53:34.748640600 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:53:34.749638 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:53:34.750666400 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:53:34.751632700 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:53:34.751632700 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:53:34.752629100 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:53:34.753628100 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:53:34.754625600 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T07:56:45.237568600 : storeOrder: Order#: 513 |Date: 2021-08-18 |Name: bjbjs, bbvx |
+2021-08-18T07:58:34.415832600 : storeOrder: Order#: 514 |Date: 2021-08-18 |Name: george, nardine |
+2021-08-18T08:17:48.036678400 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:17:48.039681800 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:17:48.039681800 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:17:48.040666200 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:17:48.040666200 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:17:48.041694600 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:17:48.042661100 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:17:48.042661100 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:17:48.043658400 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:17:48.043658400 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:17:48.044688400 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:17:48.044688400 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:17:48.045652800 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:17:48.046649400 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:17:48.046649400 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:30:03.652075700 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:30:03.653026400 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:30:03.653026400 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:30:03.653026400 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:30:03.654024 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:30:03.654024 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:30:03.654024 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:30:03.655021800 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:30:03.655021800 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:30:03.656052200 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:30:03.656052200 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:30:03.657015600 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:30:03.658012800 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:30:03.658012800 : printMenuAndGetSelection: java.util.NoSuchElementException
+2021-08-18T08:30:03.659010300 : printMenuAndGetSelection: java.util.NoSuchElementException
